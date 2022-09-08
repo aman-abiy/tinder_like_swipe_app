@@ -1,0 +1,71 @@
+[{
+        "name": "Scarlett Johansson",
+        "age": 37,
+        "image": "Scarlett_Johansson.jpg",
+        "location": "Sanfrancisco, California",
+        "distance": 12.0
+    },
+    {
+        "name": "Jennifer Lawrence",
+        "age": 32,
+        "image": "Jennifer_Lawrence.jpg",
+        "location": "Oakland, California",
+        "distance": 8.0
+    },
+    {
+        "name": "Margot Robbie",
+        "age": 32,
+        "image": "Margot_Robbie.jpg",
+        "location": "Los Angeles, California",
+        "distance": 12.0
+    },
+    {
+        "name": "Emma Stone",
+        "age": 33,
+        "image": "Emma_Stone.jpg",
+        "location": "San Diego, California",
+        "distance": 7.0
+    },
+    {
+        "name": "Jada Pinkett",
+        "age": 25,
+        "image": "Jada_Pinkett.jpg",
+        "location": "Sacramento, California",
+        "distance": 7.0
+    },
+    {
+        "name": "Megan Fox",
+        "age": 36,
+        "image": "Megan_Fox.jpg",
+        "location": "Riverside, California",
+        "distance": 15.0
+    },
+    {
+        "name": "Hailey Baldwin",
+        "age": 25,
+        "image": "Hailey_Baldwin.jpg",
+        "location": "Modesto, California",
+        "distance": 3.0
+    },
+    {
+        "name": "Kylie Jenner",
+        "age": 25,
+        "image": "Scarlett_Johansson.jpg",
+        "location": "Long Beach, California",
+        "distance": 7.0
+    },
+    {
+        "name": "Kristen Stewart",
+        "age": 32,
+        "image": "Kristen_Stewart.jpg",
+        "location": "Fresno, California",
+        "distance": 6.0
+    },
+    {
+        "name": "Keira Knightley",
+        "age": 37,
+        "image": "Keira_Knightley.jpg",
+        "location": "Fontana, California",
+        "distance": 3.0
+    }
+]
